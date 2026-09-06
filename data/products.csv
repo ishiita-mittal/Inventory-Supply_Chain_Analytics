@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,UnitCost,SupplierID
+1,Enterprise Server Blade,Components,1250.0,1
+2,24-Port Gigabit PoE Switch,Networking,320.0,3
+3,4TB Enterprise NVMe SSD,Storage,280.0,3
+4,Smart UPS 1500VA,Power,450.0,4
+5,Ergonomic Mesh Chair,Office Equipment,180.0,6
+6,Ultra-Wide 34-Inch Monitor,Electronics,550.0,1
+7,Cat6a Shielded Cable 100m,Accessories,35.0,2
+8,Industrial Surge Protector,Power,65.0,4
+9,10Gb SFP+ Optical Transceiver,Networking,85.0,5
+10,Wireless Mechanical Keyboard,Accessories,75.0,6
+11,16TB SATA Enterprise HDD,Storage,240.0,3
+12,Dual Monitor Arm Mount,Office Equipment,95.0,6
+13,HD Conference Webcam 4K,Electronics,140.0,1
+14,Fiber Optic Patch Cord 10m,Accessories,18.0,5
+15,Heavy-Duty Server Rack 42U,Components,850.0,2
