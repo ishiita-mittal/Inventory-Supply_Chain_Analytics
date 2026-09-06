@@ -10,6 +10,9 @@ An end-to-end inventory and supply chain analytics prototype built using **Micro
 
 The project analyzes inventory levels, product value, supplier information, warehouse distribution, orders, reorder requirements, and stockout risk through a relational database and an interactive Power BI dashboard.
 
+## Dashboard Preview
+![Inventory & Supply Chain Analytics Dashboard](screenshots/dashboard.png)
+
 ## Business Problem
 
 Organizations managing inventory across multiple warehouses need visibility into stock levels, inventory value, supplier information, and replenishment requirements.
