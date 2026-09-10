@@ -5,7 +5,6 @@
 **Completed Analytics Prototype**
 
 ## Overview
-
 An end-to-end inventory and supply chain analytics prototype built using **Microsoft SQL Server, T-SQL, Power Query, DAX, and Power BI**.
 
 The project analyzes inventory levels, product value, supplier information, warehouse distribution, orders, reorder requirements, and stockout risk through a relational database and an interactive Power BI dashboard.
@@ -14,7 +13,6 @@ The project analyzes inventory levels, product value, supplier information, ware
 ![Inventory & Supply Chain Analytics Dashboard](screenshots/dashboard.png)
 
 ## Business Problem
-
 Organizations managing inventory across multiple warehouses need visibility into stock levels, inventory value, supplier information, and replenishment requirements.
 
 This project focuses on identifying:
@@ -27,7 +25,6 @@ This project focuses on identifying:
 - Supplier-related inventory information
 
 ## Objectives
-
 1. Design a relational database in SQL Server for inventory, orders, products, suppliers, and warehouses.
 2. Use T-SQL to create, populate, clean, join, and analyze data across multiple tables.
 3. Use Power Query to transform and prepare data before loading it into Power BI.
